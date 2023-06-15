@@ -8,4 +8,4 @@ The directory "BenchmarkingDatasets" includes the datasets for assessing the per
 (How to cite: Ehrt C. Protein binding site comparison. Ph.D. thesis, Technische Universität Dortmund, 2019.)
 A detailed description can be found in the corresponding publication.
 
-These datasets were used in the publication: **Graef J., Ehrt C., Rarey M. _Binding Site Detection Remastered: Enabling Fast, Robust, and Reliable Binding Site Detection and Descriptor Calculation with DoGSite3_ J. Chem. Inf. Model. 2023 [DOI: 10.1021/acs.jcim.3c00336](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00336)**
+These datasets were used in the publication: **Graef J., Ehrt C., Rarey M. _Binding Site Detection Remastered: Enabling Fast, Robust, and Reliable Binding Site Detection and Descriptor Calculation with DoGSite3_ J. Chem. Inf. Model. 2023, 63, 10, 3128–3137. [DOI: 10.1021/acs.jcim.3c00336](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00336)**
